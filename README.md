@@ -24,7 +24,7 @@ A simple terminal-based **Tic Tac Toe** game for two players, built using pure P
 
 - Python 3.x
 
-📄 Code Explanation
+## 📄 Code Explanation
 `print_board(board)`
 
 Displays the current board in a readable format with row separators.
